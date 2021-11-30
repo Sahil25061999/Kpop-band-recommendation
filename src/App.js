@@ -21,6 +21,10 @@ const kpop = {
         "Lay",
         "Xiumin"
       ]
+    },
+    {
+      name: "WINNER",
+      member: ["Jinwoo", "Seunghoon", "Mino", "Seungyoon"]
     }
   ],
   girlGroup: [
@@ -41,6 +45,10 @@ const kpop = {
         "Dahyun",
         "Mina"
       ]
+    },
+    {
+      name: "Red Velvet",
+      member: ["Irene", "Seulgi", "Wendy", "Joy", "Yeri"]
     }
   ],
   bands: [
@@ -53,6 +61,19 @@ const kpop = {
         "Shin Jun-ki",
         "Kim Ye-jun",
         "Min Dae-hong"
+      ]
+    },
+    {
+      name: "Day6",
+      member: ["Jae Park", "Wonpil", "SungJin", "Junhyeok", "Dowoon", "Young K"]
+    },
+    {
+      name: "CNBLUE",
+      member: [
+        "Jung Yong-hwa",
+        "Kang Min-hyuk",
+        "Lee Jung-Shin",
+        "Lee Jong-hyun"
       ]
     }
   ]
